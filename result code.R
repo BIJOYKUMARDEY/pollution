@@ -1,3 +1,4 @@
+# Download data from https://www.kaggle.com/rohanrao/air-quality-data-in-india/download
 data<-read.csv(file.choose(),header=T)
 View(data)
 library(dplyr)
