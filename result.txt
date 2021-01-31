@@ -1,0 +1,11 @@
+KOLKATA precovid:(2019-07-01 to 2020-02-29)
+
+average value of NO2:- 37.88331
+average value of CO:- 0.8386885
+average value of SO2:- 8.999508
+
+KOLKATA postcovid:(2020-03-01 to 2020-07-01)
+
+average value of NO2:- 14.3409
+average value of CO:- 0.4414634
+average value of SO2:- 7.871139
